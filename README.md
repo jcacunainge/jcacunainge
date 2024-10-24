@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jhan Carlos Acuña</h1>
-<h3 align="center">A passionate frontend - Backend developer from Colombia and </h3>
+<h3 align="center">A passionate frontend - Backend developer from Colombia </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
