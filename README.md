@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Tecnónologo Análisis y Desarrollo de Software**
 
-- 💬 Ask me about **vue.js , react.js, angular**
+- 💬 Ask me about **vue.js , react.js, python**
 
 - 📫 How to reach me **jcacunainge@gmail.com**
 
