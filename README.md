@@ -57,10 +57,21 @@
 </a> 
 </p>
 
-<h3 align="left">Projects:</h3>
-<ul>
-  <li><a href="https://tiendaguitarras1.netlify.app/" target="_blank">Tienda de Guitarras</a></li>
-  <li><a href="https://safiro.netlify.app/" target="_blank">Safiro</a></li>
-  <li><a href="https://landing-pague-casa-de-acciones-2os1.vercel.app/" target="_blank">Landing Page - Casa de Acciones</a></li>
-  <li><a href="https://landing-pague-2.vercel.app/" target="_blank">Landing Page - Pague</a></li>
-</ul>
+# 🚀 Mis Proyectos  
+
+Aquí encontrarás una colección de mis proyectos desarrollados con **Vue.js** y **React**.  
+
+## 🌿 Proyectos en Vue.js  
+- 🎸 [Tienda de Guitarras](https://tiendaguitarras1.netlify.app/) - Una tienda en línea para comprar guitarras.  
+- 💎 [Safiro](https://safiro.netlify.app/) - Aplicación con una interfaz elegante y moderna.  
+- 📈 [Landing Page - Casa de Acciones](https://landing-pague-casa-de-acciones-2os1.vercel.app/) - Página de presentación para una empresa de inversiones.  
+- 💰 [Landing Page - Pague](https://landing-pague-2.vercel.app/) - Plataforma de pagos en línea.  
+
+## ⚛️ Proyectos en React  
+- 🎸 [Guitarras Dusky](https://guitarras-dusky.vercel.app/) - Tienda de guitarras con una interfaz única.  
+- 🍽️ [Calculadora de Calorías](https://calculadora-calorias-web.vercel.app/) - Aplicación para calcular calorías de los alimentos.  
+- 🪙 [Criptomonedas Web](https://web-criptomonedas.vercel.app/) - Aplicación para consultar información sobre criptomonedas.  
+
+📌 *Más proyectos en desarrollo...*  
+Si te gustan mis proyectos, ¡no dudes en dejar una ⭐ en el repositorio! 😊  
+
